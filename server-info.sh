@@ -9,6 +9,8 @@ memory=$(free -h)
 uptime=$(uptime)
 echo
 echo "==========server-info=========="
+
+echo "==============================="
 echo
 echo "server name is : $hostname"
 echo
